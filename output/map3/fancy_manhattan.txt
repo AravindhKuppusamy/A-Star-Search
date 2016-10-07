@@ -1,0 +1,11 @@
+FAILURE
+For Heuristics:  fancy_manhattan
+
+|---------------- PERFORMANCE METRICS -----------------|
+
+No. of moves in the solution                    :  -1
+No. of nodes put on the queue                   :  3
+No. of nodes visited / removed from the queue   :  3
+
+|------------------------------------------------------|
+
