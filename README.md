@@ -59,7 +59,7 @@ Implement an A* search algorithm in python for solving rolling-die mazes. The ob
 
    | Parameters          | E.g:        |
    | ------------------- | ----------- |
-   | <Maze filename>   | "map2.txt"  |
+   | \<Maze filename\>   | "map2.txt"  |
    | \<Heuristic name\> | "manhattan" |
 
 
