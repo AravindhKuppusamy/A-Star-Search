@@ -1,5 +1,3 @@
-Read Me:
-
 Main file name: rdMaze.py
 Python version: 3.5.1
 Required packages: matplotlib, numpy
