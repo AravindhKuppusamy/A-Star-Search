@@ -37,33 +37,14 @@ Implement an A* search algorithm in python for solving rolling-die mazes. The ob
 
 **Required packages:** numpy, matplotlib
 
-#### Options to execute program:
-
- ```shell
-   # python3 rdMaze.py <Maze filename>
-   - Will produce the output in the console for the given maze with all the heuristics ('fancy_manhattan', 'manhattan', 'euclidean', 'diagonal').
-   ```
+#### To run the program:
 
  ```shell
    # python3 rdMaze.py <Maze filename> <Heuristic name>
-   - Will produce the output in the console for the given maze and heuristic.
+   - Will produce the output in the console for the given maze and heuristic('fancy_manhattan', 'manhattan', 'euclidean', 'diagonal').
+   - If not given heuristic, all the heuristics will be evaluated.
    ```
-
- ```shell
-   # python3 rdMaze.py
-   - Will be prompted to enter the maze filename and also the heuristics you want to use in A* search. Will produce the output in the console for the given maze and heuristic.
-   ```
-
    
-   where,
-
-   | Parameters          | E.g:        |
-   | ------------------- | ----------- |
-   | \<Maze filename\>   | "map2.txt"  |
-   | \<Heuristic name\> | "manhattan" |
-
-
-
 ### Output:
 
 Below is the the output when we run A* search on map-2 with Euclidean distance as heuristics.
